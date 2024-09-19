@@ -1,0 +1,62 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Log files
+*.log
+
+# Virtual environment files
+.venv/
+env/
+.virtualenv/
+
+# IDE files
+.vscode/
+.pycharm/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Operating system files
+.Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.swo
+*.dst
+*.ds_store
+*.pot
+*.orig
+
+# Python package files
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Data files
+data/
+dataset/
+*.csv
+*.json
+*.pickle
+*.pkl
+
+# Documentation files
+docs/
+doc/
+*.pdf
+
+# Commit message and author info
+*.gitcommit
+*.gitauthor
+
+# Git merge conflict files
+*.merge_conflict*
