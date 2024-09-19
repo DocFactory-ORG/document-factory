@@ -16,10 +16,14 @@ Check the python version that is used. Ensure that it is 3.10 as it is indeed th
 pip3.10 install python-docx
 ```
 
+```
 cd backend
-
 ```
+
 Ensure that all .docx files are in the backend subdirectory else an error will be thrown.
-```
 
-python3.10 document_read.py
+Run the following command replacing `file_name.docx` with your desired `.docx` file
+
+```
+python3.10 document_read.py -f file_name.docx
+```
