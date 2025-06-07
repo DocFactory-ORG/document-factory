@@ -2,13 +2,7 @@ import Head from 'next/head';
 import React from 'react';
 
 import {
-  Button,
   Container,
-  Form,
-  InputGroup,
-  Spinner,
-  Stack,
-  Nav,
   Tab,
   Tabs,
 } from 'react-bootstrap';
@@ -58,7 +52,7 @@ export default function Main() {
               <Tab eventKey="templates" title="Templates">
                 <Templates />
               </Tab>
-              <Tab eventKey="formA" title="Form A">
+              <Tab eventKey="formA" title="Form As">
                 <FormA />
               </Tab>
             </Tabs>
