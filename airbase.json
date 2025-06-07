@@ -1,0 +1,8 @@
+{
+  "name": "template-nextjs-helloworld",
+  "framework": "nextjs-standalone",
+  "scripts": {
+    "build": "npm run build",
+    "start": "node server.js"
+  }
+}
