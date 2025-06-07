@@ -32,6 +32,7 @@ export default function Main() {
             border: '1px solid lightgray',
             borderRadius: '15px',
             height: '90vh',
+            width: '100vw'
           }}
         >
           <Container
