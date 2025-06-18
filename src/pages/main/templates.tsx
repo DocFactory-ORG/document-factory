@@ -11,7 +11,6 @@ export default function Templates() {
 
 	return (
 		<>
-			<ActionBar actions={actionList} />
 			<div>
 				Tab content for Templates
 			</div>

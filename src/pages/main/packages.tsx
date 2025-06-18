@@ -16,7 +16,6 @@ export default function Packages() {
 
 	return (
 		<>
-			<ActionBar actions={actionList} />
 			<div>
 				Tab content for Packages
 			</div>

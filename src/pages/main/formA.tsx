@@ -10,7 +10,6 @@ export default function FormA() {
 
 	return (
 		<>
-			<ActionBar actions={actionList} />
 			<div>
 				Tab content for Form As
 			</div>
