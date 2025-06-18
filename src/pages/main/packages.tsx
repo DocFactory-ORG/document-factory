@@ -1,4 +1,3 @@
-import ActionBar from "@/components/actionBar"
 
 export default function Packages() {
 	const actionList = [
